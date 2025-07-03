@@ -1,1 +1,1 @@
-Install via: devtools::install_github("https://github.com/mduanes/duanes.tool.update")
+Install via: devtools::install_github("github.com/mduanes/duanes.tools.update")
